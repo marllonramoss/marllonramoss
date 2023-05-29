@@ -1,10 +1,15 @@
-## Olá 👋
-
-### 🤔 Quem sou eu?
-Meu nome é Marllon e sou estudante de Engenharia de Software.
-- 🟢 Pronomes: Ele/dele
-- 📗 Atualmente estou aprendendo: NextJS
-- ⚡ Fun fact: Amo jogos e sou fascinado por musica.
+<div align="center"> 
+  <h2> Hello there 👋, I`m Marllon Ramos </h2>
+ </div>
+<div align="center">
+  <h3>Full Stack Web Developer</h3>
+ </div>
+  
+- 🎸 **Hobbies**: Play video games, listen to music, play piano/guitar and read a book.
+- 🎓 **Education**: Studying Software engineering 5/8 at UNESA(Estacio de SA University)
+- 🖥 **Favorite programming language**: TS and JS
+- 📚 **What Am I Studying At The Moment**: NextJS
+- 🧠 **Fun fact**: I'm extremely addicted to learning new things.
 
 ## 🍏 Tecnologias que estou estudando atualmente 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&bg=black)
