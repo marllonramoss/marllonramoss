@@ -22,7 +22,7 @@ Meu nome é Marllon e sou estudante de Engenharia de Software.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL-server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-card_width
+
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marllonramoss&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marllonramoss&theme=dark&layout=compact&card_height=800px&custom_title=Linguagens)](https://github.com/anuraghazra/github-readme-stats)
