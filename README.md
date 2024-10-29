@@ -6,10 +6,11 @@
 - Tailwind CSS
 - TypeScript
 - JavaScript
-- Node.js
+- Node
 - NestJS
 - Prisma
 - Jest
+- AWS -> Deploy com Ec2 & RDS
 
 Contato:
 - **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)
