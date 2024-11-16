@@ -36,7 +36,7 @@
 ## 📫 Contact Me
 - **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)
 - **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)
-
+- **Discord**: marllonramos
 ---
 
 🚀 *Let’s build something amazing together!*
