@@ -1,4 +1,4 @@
-# 🤠 Hey, this is my About Me
+# 🤠 Hey, hru? welcome to my GitHub profile! 
 
 ## 🛠️ Tech Stack
 
@@ -8,14 +8,17 @@
 - **Tailwind CSS**
 - **TypeScript**
 - **JavaScript**
-- **Expo (React Native)**
-- **GSAP**
+- **Expo (React Native)** 
+- **GSAP** - Still building my experience with this, but excited to dive deeper.
+- **VueJs** - I have knowledge of it, but I’m not as used to building projects with it yet.
+- **Angular** - I have knowledge of it, but I’m not as used to building projects with it yet.
 
 ### Back-End
 - **Node.js**
 - **NestJS**
 - **Prisma**
 - **Jest**
+- **Docker**
 
 ### Cloud & Deployment
 - **AWS (EC2 & RDS)**
