@@ -1,15 +1,15 @@
-# 🤠 Hey, Im Marllon!
+# 🤠 Hey, this is my About Me
 
 ## 🛠️ Tech Stack
 
 ### Front-End
-- **Next.js** 
-- **React** 
+- **Next.js**
+- **React**
 - **Tailwind CSS**
 - **TypeScript**
 - **JavaScript**
-- **Expo (React Native)** 
-- **GSAP** 
+- **Expo (React Native)**
+- **GSAP**
 
 ### Back-End
 - **Node.js**
@@ -19,6 +19,14 @@
 
 ### Cloud & Deployment
 - **AWS (EC2 & RDS)**
+
+---
+
+## 🎮 Fun Facts & Interests
+
+- 🎶 I’m passionate about music production and love playing musical instruments like the piano and guitar.
+- 🔫 I’m an avid fan of FPS games!
+- 🧠 I’m addicted to learning new things 🤯
 
 ---
 
