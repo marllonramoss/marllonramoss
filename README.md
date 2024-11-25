@@ -22,6 +22,8 @@
 
 ### Cloud & Deployment
 - **AWS (EC2 & RDS)**
+- Azure
+- Vercel
 
 ---
 
