@@ -1,44 +1,52 @@
-# 🤠 Hey, hru? welcome to my GitHub profile! 
+# 🤠 Hey, hru? Welcome to my GitHub Profile! 
 
 ## 🛠️ Tech Stack
 
 ### Front-End
-- **Nextjs**
-- **React**
-- **Tailwind CSS**
-- **TypeScript**
-- **JavaScript**
-- **Expo (React Native)** 
-- **GSAP** - *Still building my experience with this, but excited to dive deeper.*
-- **Vue** - *I have knowledge of it, but I’m not as used to building projects with it yet.*
-- **Angular** - *I have knowledge of it, but I’m not as used to building projects with it yet.*
+- **Next.js**  
+- **React**  
+- **Tailwind CSS**  
+- **TypeScript**  
+- **JavaScript**  
+- **Expo (React Native)**  
+- **GSAP** (Learning)  
+- **Vue** (Basic)  
+- **Angular** (Basic)
 
 ### Back-End
-- **Nodejs**
-- **Nest**
-- **Prisma**
+- **Node.js**  
+- **Nest.js**  
+- **Prisma**  
+- **Express**  
 - **Jest**
-- **Express**
+- **Firebase**
 
 ### Cloud & Deployment
-- **AWS (EC2 & RDS)**
-- Azure
-- Vercel
+- **AWS (EC2 & RDS)**  
+- **Azure**  
+- **Vercel**
+
+---
+
+## 🌍 Languages
+- **Portuguese**: Native  
+- **English**: B2 (Practicing daily)  
+
 
 ---
 
 ## 🎮 Fun Facts & Interests
-
-- 🎶 I’m passionate about music production and love playing musical instruments like the piano and guitar.
-- 🔫 I’m an avid fan of FPS games!
-- 🧠 I’m addicted to learning new things 🤯
+- 🎶 Passionate about music production, playing piano and guitar.  
+- 🔫 Avid fan of FPS games!  
+- 🧠 Lifelong learner and always exploring new tech.
 
 ---
 
 ## 📫 Contact Me
-- **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)
-- **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)
-- **Discord**: marllonramos
+- **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)  
+- **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)  
+- **Discord**: marllonramos  
+
 ---
 
 🚀 *Let’s build something amazing together!*
