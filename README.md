@@ -20,6 +20,8 @@
 ## 🌍 Languages
 - **Portuguese**: Native  
 - **English**: B2 (Practicing daily)  
+- **Portuñol**: Conversational (Used in client meetings with Spanish-speaking clients) 
+- **Spanish**: Basic (Used in professional settings) 
 
 
 ---
