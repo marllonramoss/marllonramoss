@@ -2,31 +2,20 @@
 
 ## 🛠️ Tech Stack
 
-### Front-End
-- **Next.js**  
-- **React**  
-- **Tailwind CSS**  
-- **TypeScript**  
-- **JavaScript**  
-- **Expo (React Native)**  
-- **GSAP** (Learning)  
-- **Vue** (Basic)  
-- **Angular** (Basic)
-
-### Back-End
-- **Node.js**  
-- **Nest.js**  
-- **Prisma**  
-- **Express**  
-- **Jest**
-- **Firebase**
-
-### Cloud & Deployment
-- **AWS (EC2 & RDS)**  
-- **Azure**  
-- **Vercel**
+| **Front-End**            | **Back-End**           | **Cloud & Deployment** |
+|--------------------------|------------------------|------------------------|
+| Next.js                  | Node.js                | AWS (EC2 & RDS)       |
+| React                    | Nest.js                | Azure                  |
+| Tailwind CSS             | Prisma                 | Vercel                 |
+| TypeScript               | Express                |                        |
+| JavaScript               | Jest                   |                        |
+| Expo (React Native)      | Firebase               |                        |
+| GSAP (Learning)          |                        |                        |
+| Vue (Basic)              |                        |                        |
+| Angular (Basic)          |                        |                        |
 
 ---
+
 
 ## 🌍 Languages
 - **Portuguese**: Native  
