@@ -10,7 +10,7 @@
 | TypeScript               | Express                |                        |
 | JavaScript               | Jest                   |                        |
 | Expo (React Native)      | Firebase               |                        |
-| GSAP (Learning)          |                        |                        |
+| GSAP (Learning)          | Knex                   |                        |
 | Vue (Basic)              |                        |                        |
 | Angular (Basic)          |                        |                        |
 
