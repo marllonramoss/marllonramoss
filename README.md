@@ -11,8 +11,9 @@
 | JavaScript               | Jest                   |                        |
 | Expo (React Native)      | Firebase               |                        |
 | GSAP (Learning)          | Knex                   |                        |
-| Vue (Basic)              |                        |                        |
+| Vue (Basic)              | OAuth2.0               |                        |
 | Angular (Basic)          |                        |                        |
+| React Hook Form          |                        |                        |
 
 ---
 
