@@ -12,7 +12,7 @@
 | Expo (React Native)      | Firebase               |                        |
 | GSAP (Learning)          | Knex                   |                        |
 | Vue (Basic)              | OAuth2.0               |                        |
-| Angular (Basic)          |                        |                        |
+| Angular (Basic)          | Zod                    |                        |
 | React Hook Form          |                        |                        |
 
 ---
