@@ -10,12 +10,12 @@
 | TypeScript               | Express                |                        |
 | JavaScript               | Jest                   |                        |
 | GSAP                     | Firebase               |                        |
-| R3F                      | Prismic                |                        |
-| Expo (React Native)      | Knex                   |                        |
+| R3F (Learning)           | Prismic                |                        |
+| Expo/React Native(Basic) | Knex                   |                        |
 | Vue (Basic)              | OAuth2.0               |                        |
 | Angular (Basic)          | Zod                    |                        |
 | React Hook Form          | JSON Web Server        |                        |
-
+|                          | class-validator        |                        |
 ---
 
 
