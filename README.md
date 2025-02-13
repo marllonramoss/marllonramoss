@@ -4,16 +4,17 @@
 
 | **Front-End**            | **Back-End**           | **Cloud & Deployment** |
 |--------------------------|------------------------|------------------------|
-| Next.js                  | Node.js                | AWS (EC2 & RDS)       |
+| Next.js                  | Node.js                | AWS (EC2 & RDS)        |
 | React                    | Nest.js                | Azure                  |
 | Tailwind CSS             | Prisma                 | Vercel                 |
 | TypeScript               | Express                |                        |
 | JavaScript               | Jest                   |                        |
-| Expo (React Native)      | Firebase               |                        |
-| GSAP (Learning)          | Knex                   |                        |
+| GSAP                     | Firebase               |                        |
+| R3F                      | Prismic                |                        |
+| Expo (React Native)      | Knex                   |                        |
 | Vue (Basic)              | OAuth2.0               |                        |
 | Angular (Basic)          | Zod                    |                        |
-| React Hook Form          |                        |                        |
+| React Hook Form          | JSON Web Server        |                        |
 
 ---
 
