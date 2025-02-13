@@ -1,4 +1,4 @@
-#  Hey!? Here’s a little more about me! 
+#  🫀🧠 Hey!? Here’s a little more about me! 
 
 ## 🛠️ Tech Stack
 
