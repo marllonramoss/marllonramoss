@@ -15,7 +15,7 @@
 | Vue (Basic)              | OAuth2.0               |                        |
 | Angular (Basic)          | Zod                    |                        |
 | React Hook Form          | JSON Web Server        |                        |
-|                          | class-validator        |                        |
+|                          | Class-validator        |                        |
 ---
 
 
