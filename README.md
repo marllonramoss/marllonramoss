@@ -10,7 +10,7 @@
 | TypeScript               | Express                |                        |
 | JavaScript               | Jest                   |                        |
 | GSAP                     | Firebase               |                        |
-| R3F (Learning)           | Prismic                |                        |
+| R3F (Learning...)        | Prismic                |                        |
 | Expo/React Native(Basic) | Knex                   |                        |
 | Vue (Basic)              | OAuth2.0               |                        |
 | Angular (Basic)          | Zod                    |                        |
