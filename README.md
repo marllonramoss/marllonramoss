@@ -17,6 +17,7 @@
 | React Hook Form          | JSON Web Server        |                        |
 |                          | Class-validator        |                        |
 |                          | Swagger                |                        |
+|                          | Clerk                  |                        |
 ---
 
 
