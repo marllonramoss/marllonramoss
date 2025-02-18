@@ -23,7 +23,7 @@
 
 ## 🌍 Languages
 - **Portuguese**: Native  
-- **English**: B2 (Practicing daily)  
+- **English**: B2 
 - **Portuñol**: Conversational (I used it in my last work experience) 
 - **Spanish**: Basic 
 
