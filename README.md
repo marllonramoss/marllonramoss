@@ -1,6 +1,6 @@
 #  🫀 Hey!? Here’s a little more about me! 
 
-## 🛠️ Summary
+## 📄 Summary
 Software Engineering student focused on web development, open to Full Stack, Frontend, and
 Backend roles. Adaptable, fully equipped for remote work, and eager to take on new challenges
 beyond web development. You can check out some of my studies here!
@@ -39,8 +39,9 @@ beyond web development. You can check out some of my studies here!
 
 ---
 
-## 🎮 Fun Facts & Interests
-- 🎶 Passionate about music production, playing piano and guitar.  
+## 🎉 Fun Facts & Interests
+- 🙏 God comes first
+- 🎶 Passionate about music production, playing piano and acoustic guitar.  
 - 🔫 Avid fan of FPS games!  
 - 🧠 Lifelong learner and always exploring new tech.
 
