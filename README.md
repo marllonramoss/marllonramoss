@@ -18,6 +18,7 @@
 |                          | Class-validator        |                        |
 |                          | Swagger                |                        |
 |                          | Clerk                  |                        |
+|                          | Kinde                  |                        |
 ---
 
 
