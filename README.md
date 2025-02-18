@@ -1,4 +1,9 @@
-#  🫀🧠 Hey!? Here’s a little more about me! 
+#  🫀 Hey!? Here’s a little more about me! 
+
+## 🛠️ Summary
+Software Engineering student focused on web development, open to Full Stack, Frontend, and
+Backend roles. Adaptable, fully equipped for remote work, and eager to take on new challenges
+beyond web development. You can check out some of my studies here!
 
 ## 🛠️ Tech Stack
 
@@ -19,15 +24,18 @@
 |                          | Swagger                |                        |
 |                          | Clerk                  |                        |
 |                          | Kinde                  |                        |
+
 ---
 
+## 🎓 Education
+- Bachelor's in Software Engineering -> Jan 2021 - Jun 2025
+
+---
 
 ## 🌍 Languages
 - **Portuguese**: Native  
 - **English**: B2 
-- **Portuñol**: Conversational (I used it in my last work experience) 
 - **Spanish**: Basic 
-
 
 ---
 
@@ -41,7 +49,8 @@
 ## 📫 Contact Me
 - **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)  
 - **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)  
-- **Discord**: marllonramos  
+- **Discord**: marllonramos
+- **WhatsApp**: +5521989399832
 
 ---
 
