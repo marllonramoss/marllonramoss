@@ -42,7 +42,7 @@ beyond web development. You can check out some of my studies here!
 ## 🎉 Fun Facts & Interests
 - 🙏 God comes first
 - 🎶 Passionate about music production, playing piano and acoustic guitar.  
-- 🔫 Avid fan of FPS games!  
+- 🔫 Avid fan of games!  
 - 🧠 Lifelong learner and always exploring new tech.
 
 ---
