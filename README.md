@@ -16,10 +16,10 @@ beyond web development. You can check out some of my studies here!
 | JavaScript               | Jest                   |                        |
 | GSAP                     | Firebase               |                        |
 | R3F (Learning...)        | Prismic                |                        |
-| Expo/React Native(Basic) | Knex                   |                        |
-| Vue (Basic)              | OAuth2.0               |                        |
-| Angular (Basic)          | Zod                    |                        |
-| React Hook Form          | JSON Web Server        |                        |
+| Zustand                  | Knex                   |                        |
+| Redux                    | OAuth2.0               |                        |
+|                          | Zod                    |                        |
+|                          | JSON Web Server        |                        |
 |                          | Class-validator        |                        |
 |                          | Swagger                |                        |
 |                          | Clerk                  |                        |
