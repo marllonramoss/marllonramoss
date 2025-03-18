@@ -23,14 +23,14 @@ Full Stack Developer with proven expertise in building high-performance web appl
 ## 🎓 Education
 - Bachelor's in Software Engineering -> Jan 2021 - Jun 2025
 
----
+
 
 ## 🌍 Languages
 - **Portuguese**: Native  
 - **English**: B2 
 - **Spanish**: Basic 
 
----
+
 
 ## 🎉 Fun Facts & Interests
 - 🙏 God comes first
@@ -38,7 +38,7 @@ Full Stack Developer with proven expertise in building high-performance web appl
 - 🔫 Avid fan of games!  
 - 🧠 Lifelong learner and always exploring new tech.
 
----
+
 
 ## 📫 Contact Me
 - **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)  
@@ -46,9 +46,9 @@ Full Stack Developer with proven expertise in building high-performance web appl
 - **Discord**: marllonramos
 - **WhatsApp**: +5521989399832
 
----
 
-🚀 *Let’s build something amazing together!*
+
+
 
 <picture>
   <source
@@ -64,3 +64,5 @@ Full Stack Developer with proven expertise in building high-performance web appl
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+🚀 *Let’s build something amazing together!*
