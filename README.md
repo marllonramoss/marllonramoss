@@ -1,31 +1,24 @@
-#  🫀 Hey!? Here’s a little more about me! 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-## 📄 Summary
-Software Engineering student focused on web development, open to Full Stack, Frontend, and
-Backend roles. Adaptable, fully equipped for remote work, and eager to take on new challenges
-beyond web development. You can check out some of my studies here!
+
+## 🫀 Me
+Full Stack Developer with proven expertise in building high-performance web applications using Next.js, TypeScript, and React. Skilled in developing scalable e-commerce solutions, implementing complex state management systems, and integrating headless CMS architectures. Consistently deliver clean, maintainable code with a strong focus on performance optimization and user experience. Demonstrated ability to architect and implement robust solutions that drive business growth while maintaining technical excellence.
 
 ## 🛠️ Tech Stack
 
-| **Front-End**            | **Back-End**           | **Cloud & Deployment** |
-|--------------------------|------------------------|------------------------|
-| Next.js                  | Node.js                | AWS (EC2 & RDS)        |
-| React                    | Nest.js                | Azure                  |
-| Tailwind CSS             | Prisma                 | Vercel                 |
-| TypeScript               | Express                |                        |
-| JavaScript               | Jest                   |                        |
-| GSAP                     | Firebase               |                        |
-| R3F (Learning...)        | Prismic                |                        |
-| Zustand                  | Knex                   |                        |
-| Redux                    | OAuth2.0               |                        |
-|                          | Zod                    |                        |
-|                          | JSON Web Server        |                        |
-|                          | Class-validator        |                        |
-|                          | Swagger                |                        |
-|                          | Clerk                  |                        |
-|                          | Kinde                  |                        |
+| **Frontend** | **Backend** | **Cloud & DevOps** | **Development Tools & Services** |
+|--------------|-------------|-------------------|--------------------------------|
+| Next.js      | Node.js     | AWS (EC2 & RDS)   | Jest (Testing)                 |
+| React        | Nest.js     | Azure             | Swagger (API Documentation)    |
+| TypeScript   | Express     | Vercel            | Zod (Schema Validation)        |
+| JavaScript   | Prisma      |                   | Class-validator                |
+| Tailwind CSS | Knex        |                   | Firebase (BaaS)                |
+| GSAP         | REST        |                   | Clerk (Auth)                   |
+| R3F          | GraphQL     |                   | Kinde (Auth)                   |
+| Zustand      | JSON Server |                   | OAuth2.0                       |
+| Redux        |             |                   | Prismic (CMS)                  |
+|              |             |                   | Hygraph (CMS)                  |
 
----
 
 ## 🎓 Education
 - Bachelor's in Software Engineering -> Jan 2021 - Jun 2025
@@ -56,3 +49,18 @@ beyond web development. You can check out some of my studies here!
 ---
 
 🚀 *Let’s build something amazing together!*
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
