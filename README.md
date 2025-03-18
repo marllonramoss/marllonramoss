@@ -1,10 +1,9 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+  # About me
+Full Stack Developer with proven expertise in building high-performance web applications. Specialized in Next.js, TypeScript, and React ecosystem, with strong experience in cloud infrastructure and modern development practices. Skilled in developing scalable digital products, from e-commerce platforms to complex web applications, while implementing robust state management systems and architecting headless CMS integrations.
 
+Consistently deliver clean, maintainable code with a strong focus on performance optimization and exceptional user experience. Demonstrated ability to architect and implement robust solutions that drive business growth while maintaining technical excellence.
 
-## 🫀 Me
-Full Stack Developer with proven expertise in building high-performance web applications using Next.js, TypeScript, and React. Skilled in developing scalable e-commerce solutions, implementing complex state management systems, and integrating headless CMS architectures. Consistently deliver clean, maintainable code with a strong focus on performance optimization and user experience. Demonstrated ability to architect and implement robust solutions that drive business growth while maintaining technical excellence.
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | **Frontend** | **Backend** | **Cloud & DevOps** | **Development Tools & Services** |
 |--------------|-------------|-------------------|--------------------------------|
@@ -20,31 +19,21 @@ Full Stack Developer with proven expertise in building high-performance web appl
 |              |             |                   | Hygraph (CMS)                  |
 
 
-## 🎓 Education
-- Bachelor's in Software Engineering -> Jan 2021 - Jun 2025
+##  Education
+ Bachelor's in Software Engineering | Jan 2021 - Jun 2025
 
 
-
-## 🌍 Languages
-- **Portuguese**: Native  
-- **English**: B2 
-- **Spanish**: Basic 
-
+##  Languages
+ Portuguese: Native  
+ English: B2 
+ Spanish: Basic 
 
 
-## 🎉 Fun Facts & Interests
-- 🙏 God comes first
-- 🎶 Passionate about music production, playing piano and acoustic guitar.  
-- 🔫 Avid fan of games!  
-- 🧠 Lifelong learner and always exploring new tech.
-
-
-
-## 📫 Contact Me
-- **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)  
-- **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)  
-- **Discord**: marllonramos
-- **WhatsApp**: +5521989399832
+##  Contact Me
+ **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)  
+ **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)  
+ **Discord**: marllonramos 
+ **WhatsApp**: +5521989399832
 
 
 
@@ -65,4 +54,4 @@ Full Stack Developer with proven expertise in building high-performance web appl
   />
 </picture>
 
-🚀 *Let’s build something amazing together!*
+
