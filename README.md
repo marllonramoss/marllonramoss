@@ -23,9 +23,9 @@ Consistently deliver clean, maintainable code with a strong focus on performance
 
 
 ##  Languages
- Portuguese: Native  
- English: B2 
- Spanish: Basic 
+Portuguese: Native  
+English: B2  
+Spanish: Basic 
 
 
 ##  Contact Me
