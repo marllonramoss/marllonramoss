@@ -5,18 +5,20 @@ Consistently deliver clean, maintainable code with a strong focus on performance
 
 ##  Tech Stack
 
-| **Frontend** | **Backend** | **Cloud & DevOps** | **Development Tools & Services** | **Databases & Storage** |
-|--------------|-------------|-------------------|--------------------------------|----------------------|
-| Next.js      | Node.js     | AWS (EC2 & RDS)   | Jest (Testing)                 | PostgreSQL           |
-| React        | Nest.js     | Azure             | Swagger (API Documentation)    | SQL server           |
-| TypeScript   | Express     | Vercel            | Zod (Schema Validation)        | MySQL                |
-| JavaScript   | Prisma      |                   | Class-validator                | Neon(DBaaS)          |
-| Tailwind CSS | Knex        |                   | Firebase (Auth)                | SQLite               |
-| GSAP         | REST        |                   | Clerk (Auth)                   | Supabase(DBaaS)      |
-| R3F          | GraphQL     |                   | Kinde (Auth)                   |                      |
-| Zustand      | JSON Server |                   | OAuth2.0                       |                      |
-| Redux        |             |                   | Prismic (CMS)                  |                      |
-|              |             |                   | Hygraph (CMS)                  |                      |
+| **Frontend** | **Backend** | **Deployment Tools** | **Development Tools & Services** |  **Databases & Storage**  |
+|--------------|-------------|----------------------|----------------------------------|---------------------------|
+| Next.js      | Node.js     | AWS (EC2 & RDS)      | Jest (Testing)                   | PostgreSQL                |
+| React        | Nest.js     | Azure                | Swagger (API Documentation)      | SQL server                |
+| TypeScript   | Express     | Vercel               | Zod (Schema Validation)          | MySQL                     |
+| JavaScript   | Prisma      | VPS                  | Class-validator                  | Neon(DBaaS)               |
+| Tailwind CSS | Knex        | Coolify              | Firebase (Auth)                  | SQLite                    |
+| GSAP         | REST        | Railway              | Clerk (Auth)                     | Supabase(DBaaS)           |
+| R3F          | GraphQL     | Nginx                | Kinde (Auth)                     |                           |
+| Zustand      | JSON Server |                      | OAuth2.0 (Auth)                  |                           |
+| Redux        |             |                      | Prismic (CMS)                    |                           |
+|              |             |                      | Hygraph (CMS)                    |                           |
+|              |             |                      | Cloudinary                       |                           |
+|              |             |                      | UploadThing                      |                           |
 
 ##  Education
  Bachelor's in Software Engineering | Jan 2021 - Jun 2025
