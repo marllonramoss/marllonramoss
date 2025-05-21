@@ -12,7 +12,7 @@ Consistently deliver clean, maintainable code with a strong focus on performance
 | TypeScript   | Express     | Vercel            | Zod (Schema Validation)        | MySQL                |
 | JavaScript   | Prisma      |                   | Class-validator                | Neon(DBaaS)          |
 | Tailwind CSS | Knex        |                   | Firebase (Auth)                | SQLite               |
-| GSAP         | REST        |                   | Clerk (Auth)                   |                      |
+| GSAP         | REST        |                   | Clerk (Auth)                   | Supabase(DBaaS)      |
 | R3F          | GraphQL     |                   | Kinde (Auth)                   |                      |
 | Zustand      | JSON Server |                   | OAuth2.0                       |                      |
 | Redux        |             |                   | Prismic (CMS)                  |                      |
@@ -31,7 +31,6 @@ Spanish: Basic
 ##  Contact Me
  **Email**: [contatomarllonramos@gmail.com](mailto:contatomarllonramos@gmail.com)  
  **LinkedIn**: [Marllon Ramos](https://www.linkedin.com/in/marllonramos/)  
- **Discord**: marllonramos 
  **WhatsApp**: +5521989399832
 
 
